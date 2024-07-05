@@ -13,6 +13,10 @@ This project is a responsive order summary card component, built with HTML and C
 ![Desktop Preview](images/desktop-preview.png)
 ![Mobile Preview](images/mobile-preview.png)
 
+### Live Site
+
+- Live Site URL: [https://philip-machar.github.io/order-summary-component/](https://philip-machar.github.io/order-summary-component/)
+
 ## Technologies Used
 
 - HTML5
